@@ -8,7 +8,7 @@
     <privilege group="all" domain="composite" privileges="READ WRITE"/>
     <privilege group="all" domain="dynamic" privileges="READ"/>
   </security>
-  <attribute name="creationDate" type="LONG">1392835349205</attribute>
+  <attribute name="creationDate" type="LONG">1343869280412</attribute>
   <attribute name="creatorUserDomain" type="STRING">composite</attribute>
   <attribute name="creatorUserName" type="STRING">system</attribute>
 </metadata>

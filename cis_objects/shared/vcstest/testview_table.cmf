@@ -1,5 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <metadata name="testview" path="/shared/vcstest/testview" type="TABLE" subtype="SQL_TABLE" changeToken="0" tableType="VIEW">
+  <annotation>test 1</annotation>
   <columns>
     <column name="OrderID" nullable="true">
       <datatype type="INTEGER" minValue="-2147483648" maxValue="2147483647"/>
@@ -190,7 +191,7 @@ FROM
   <attribute name="explicitly.designed" type="BOOLEAN">false</attribute>
   <attribute name="impactLevel" type="INTEGER">0</attribute>
   <attribute name="impactMessage" type="NULL"/>
-  <attribute name="lastModifiedDate" type="LONG">1409350531289</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1410907402557</attribute>
   <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
   <attribute name="lastModifiedUserName" type="STRING">admin</attribute>
   <attribute name="model" type="BYTE_ARRAY">EIEJBAAAAAEQUQYBAA0AQwBvAG0AcABvAHMAaQB0AGUAVgBpAGUAdwYCAA0AQwBvAG0AcABvAHMA
@@ -224,7 +225,7 @@ EgAAAAEEBAAAAAAAAAAyARMB//8DCwAAAAD//xBBBgEAEwBTAHUAcABwAGwAaQBlAHIAQwBvAG4A
 dABhAGMAdABOAGEAbQBlBgIAAAYD//8GBP//Awr/////CAwQGwMSAAAAAQQEAAAAAAAAADIBEwH/
 /wMLAAAAAP//EEEGAQATAFMAdQBwAHAAbABpAGUAcgBQAGgAbwBuAGUATgB1AG0AYgBlAHIGAgAA
 BgP//wYE//8DCv////8IDBAbAxIAAAABBAQAAAAAAAAAHgETAf//AwsAAAAA/////wkGAAAAARCC
-AwoAAAAwAwsAAAA1AwwAAADIAw0AAADI//8IAxBxAwEAAAALAwIAAAAyCQMAAAImEHQDBgAAAAD/
+AwoAAABXAwsAAABTAwwAAADIAw0AAADI//8IAxBxAwEAAAALAwIAAAAyCQMAAAImEHQDBgAAAAD/
 /xByBgT/////EHMDBQAAAAD//xB1AQcB//8QeAYL/////xB3Awr///////8QeQYM/////xB2//8Q
 dv//EHb//xB2//8QdAMGAAAAAf//EHIGBP////8QcwMFAAAAAP//EHUBBwH//xB4Bgv/////EHcD
 Cv///////xB5Bgz/////EHb//xB2//8Qdv//EHb//xB0AwYAAAAC//8QcgYE/////xBzAwUAAAAA

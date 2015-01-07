@@ -53,8 +53,8 @@
   <attribute name="creationDate" type="LONG">0</attribute>
   <attribute name="creatorUserDomain" type="STRING"/>
   <attribute name="creatorUserName" type="STRING"/>
-  <attribute name="impactLevel" type="INTEGER">8</attribute>
-  <attribute name="impactMessage" type="STRING">The procedure &apos;/shared/test00/TestSecurity/CAT1/SCH1/getCustomerById&apos; that the link refers to does not exist.</attribute>
+  <attribute name="impactLevel" type="INTEGER">0</attribute>
+  <attribute name="impactMessage" type="NULL"/>
   <attribute name="targetPath" type="STRING">/shared/test00/TestSecurity/CAT1/SCH1/getCustomerById</attribute>
   <attribute name="targetType" type="SHORT">3</attribute>
 </metadata>

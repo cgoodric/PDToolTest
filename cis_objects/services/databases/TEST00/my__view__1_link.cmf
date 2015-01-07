@@ -31,8 +31,8 @@
   <attribute name="creationDate" type="LONG">0</attribute>
   <attribute name="creatorUserDomain" type="STRING"/>
   <attribute name="creatorUserName" type="STRING"/>
-  <attribute name="impactLevel" type="INTEGER">8</attribute>
-  <attribute name="impactMessage" type="STRING">The table &apos;/shared/test00/CisResources/my_view_1&apos; that the link refers to does not exist.</attribute>
+  <attribute name="impactLevel" type="INTEGER">0</attribute>
+  <attribute name="impactMessage" type="NULL"/>
   <attribute name="targetPath" type="STRING">/shared/test00/CisResources/my_view_1</attribute>
   <attribute name="targetType" type="SHORT">2</attribute>
 </metadata>

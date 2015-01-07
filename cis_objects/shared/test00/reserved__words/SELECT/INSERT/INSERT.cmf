@@ -3,4 +3,7 @@
   <security>
     <owner user="admin" domain="composite"/>
   </security>
+  <attribute name="creationDate" type="LONG">1420671528984</attribute>
+  <attribute name="creatorUserDomain" type="STRING">composite</attribute>
+  <attribute name="creatorUserName" type="STRING">admin</attribute>
 </metadata>

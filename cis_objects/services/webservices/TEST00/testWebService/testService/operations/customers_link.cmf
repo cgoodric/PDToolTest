@@ -47,8 +47,8 @@
   <attribute name="creationDate" type="LONG">1391924075347</attribute>
   <attribute name="creatorUserDomain" type="STRING">composite</attribute>
   <attribute name="creatorUserName" type="STRING">admin</attribute>
-  <attribute name="impactLevel" type="INTEGER">8</attribute>
-  <attribute name="impactMessage" type="STRING">The table &apos;/shared/test00/TestSecurity/customers&apos; that the link refers to does not exist.</attribute>
+  <attribute name="impactLevel" type="INTEGER">0</attribute>
+  <attribute name="impactMessage" type="NULL"/>
   <attribute name="inputMessageType" type="BYTE_ARRAY">EB8GAgAeAHQAZQBzAHQAUwBlAHIAdgBpAGMAZQBQAG8AcgB0AGMAdQBzAHQAbwBtAGUAcgBzAFMA
 bwBhAHAASQBuBiQAPABoAHQAdABwADoALwAvADEAMAAuADAALgAwAC4AMQAwADkALwBzAGUAcgB2
 AGkAYwBlAHMALwB3AGUAYgBzAGUAcgB2AGkAYwBlAHMALwBUAEUAUwBUADAAMAAvAHQAZQBzAHQA
